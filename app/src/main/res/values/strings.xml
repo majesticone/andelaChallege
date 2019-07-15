@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ACL 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_about_acl">About ACL</string>
+    <string name="welcome_text">Welcome to ACL 4.0</string>
+    <string name="about_acl">About ACL</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Paul Mwale</string>
+    <string name="track_caption">Track:</string>
+    <string name="country_caption">Country :</string>
+    <string name="email_caption">Email:</string>
+    <string name="phone_number_caption">Phone Number:</string>
+    <string name="slack_username_cap">Slack Username :</string>
+    <string name="track_value">Android</string>
+    <string name="slack_value">paulmwale</string>
+</resources>
